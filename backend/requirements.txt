@@ -1,0 +1,8 @@
+# Project Echo - Backend Dependencies
+# ----------------------------------
+# If you add a new dependency during development,
+# please add it to this file and commit the change.
+
+Django>=3.2,<4.0
+djangorestframework>=3.14,<4.0
+python-dotenv>=0.21,<1.0
