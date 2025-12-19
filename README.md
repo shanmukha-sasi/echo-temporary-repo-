@@ -84,3 +84,4 @@ python manage.py runserver 8001
 🔹 Node modules missing
 
 Always run: npm install
+# echo-temporary-repo-
